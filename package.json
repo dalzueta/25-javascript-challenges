@@ -1,0 +1,23 @@
+{
+  "name": "25-javascript-challenges",
+  "version": "1.0.0",
+  "description": "Challenges from adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalzueta/25-javascript-challenges.git"
+  },
+  "author": "Daniel Alzueta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalzueta/25-javascript-challenges/issues"
+  },
+  "homepage": "https://github.com/dalzueta/25-javascript-challenges#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
