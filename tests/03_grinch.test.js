@@ -1,5 +1,5 @@
 describe("Grinch module should ", () => {
-  const sut = require("../exercices/03_grinch");
+  const sut = require("../exercises/03_grinch");
 
   it("return true when the letter is well formatted", () => {
     const letter = "bici coche (balón) bici coche peluche";

@@ -1,5 +1,5 @@
 describe("Elfo module should", () => {
-  const sut = require("../exercices/02_elfo");
+  const sut = require("../exercises/02_elfo");
 
   it("return the requested gifts in the letter", () => {
     const letter = "bici coche balón _playstation bici coche peluche";

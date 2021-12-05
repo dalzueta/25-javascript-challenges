@@ -1,5 +1,5 @@
 describe("Sheeps exercice module should", () => {
-  const sut = require("../exercices/01_sheeps.js");
+  const sut = require("../exercises/01_sheeps.js");
   const ovejas = [
     { name: "Noa", color: "blue" },
     { name: "Euge", color: "red" },
