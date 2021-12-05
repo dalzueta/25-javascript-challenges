@@ -54,4 +54,12 @@ describe("Grinch module should ", () => {
 
     expect(result).toEqual(expected);
   });
+  it("return false when the letter is bad formatted", () => {
+    const letter = "(()) bici";
+    const expected = false;
+
+    const result = sut(letter);
+
+    expect(result).toEqual(expected);
+  });
 });
